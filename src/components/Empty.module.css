@@ -1,0 +1,16 @@
+.empty {
+	display: flex;
+	flex-direction: column;
+}
+
+.emptyText {
+	align-self: center;
+	font-size: 2rem;
+}
+
+.emptyImg {
+	margin-top: 0.5rem;
+	max-width: 100%;
+	width: 25%;
+	align-self: center;
+}
